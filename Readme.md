@@ -20,4 +20,4 @@
 ```
 
 ## 技术支持
-![Alt text](cc8040975eb0b5f59f1010804929d35.jpg)
+![Alt text](cc8040975eb0b5f59f1010804929d35.jpg#pic_center=600x600)
