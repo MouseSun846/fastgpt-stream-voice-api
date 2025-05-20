@@ -18,7 +18,3 @@
     "prompt_speech": "wav_2707520_2870400.wav"              // 音频文件名称
 }
 ```
-
-## 技术支持
-
-<img src=cc8040975eb0b5f59f1010804929d35.jpg#pic_center.png width=80%/>
